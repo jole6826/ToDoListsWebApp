@@ -4,3 +4,4 @@ __pycache__
 .functional_tests.py.swp
 geckodriver.log
 *.swp
+lists/*.swp
