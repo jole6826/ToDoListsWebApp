@@ -5,3 +5,4 @@ __pycache__
 geckodriver.log
 *.swp
 lists/*.swp
+/static
